@@ -142,6 +142,7 @@ The program should display employee records or the appropriate error message if 
 
 **Write a PL/SQL program using a cursor with the `FOR UPDATE` clause to update the salary of employees in a specific department. Implement exception handling for the following cases:**
 
+
 1. **NO_DATA_FOUND**: If no rows are affected by the update.
 2. **OTHERS**: For any unexpected errors during execution.
 
